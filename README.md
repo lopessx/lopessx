@@ -2,11 +2,6 @@
 
 ### Languages and Tools:
 
-<br>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopessx&theme=chartreuse-dark" width="300em"/>
-  </div>
-<br>
 <div align="center">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="75" height="75" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" width="75" height="75" />
