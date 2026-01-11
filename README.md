@@ -18,6 +18,6 @@
   <a href="https://www.linkedin.com/in/jose-emanuel-478899143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-> A violência é o último refúgio dos incompetentes.
+> Violence is the last refuge of the incompetent.
 >
 > <b>Isaac Asimov<b>
